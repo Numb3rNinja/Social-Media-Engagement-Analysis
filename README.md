@@ -41,3 +41,8 @@ The dataset forms the backbone of the Social Media Performance Report, structure
 - **Outlier Detection**: Inspected numeric fields (e.g., `Impressions`, `Hashtag_Count`, `Engagement_Score`) for outliers that might indicate data errors or bot activity, flagging them for review.
 - **Engagement_Score Validation**: If pre-calculated, verified `Engagement_Score` aligned with the weighted formula (e.g., `Likes * 1 + Shares * 2 + Comments * 1.5`). If absent, prepared to create it as a DAX measure in Power BI.
 - **Date Consistency**: Ensured `Post_Date` was uniformly formatted and covered the relevant campaign period for accurate temporal analysis.
+
+
+# Executive Summary
+## Overview of Findings
+Instagram is the top-performing platform, while Facebook struggles to keep pace. Impression share is balanced across platforms **(±2.15% difference)**, with Instagram holding a slight edge.  Twitter’s text/image content drives the highest engagement. Video is critical for Facebook/Instagram success. LinkedIn consistently underperforms across all content types.  Instagram’s text/image and Twitter’s carousel/video are highest-performing, reflecting platform-specific content preferences.  More hashtags drive higher engagement, but Instagram achieves disproportionate returns. Carousel and image content drive nearly identical engagement **(25.5% combined)**, outperforming video and text by **+1.54%**.
