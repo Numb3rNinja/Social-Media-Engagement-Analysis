@@ -57,6 +57,6 @@ Twitter secures second place overall but demonstrates a distinct engagement prof
 
 Facebook anchors the performance spectrum with concerning consistency. It trails in all three metrics—likes (5,897,096), shares (3,013,968), and comments (1,788,560)—despite historically receiving comparable resource allocation. The platform’s particularly weak comment volume (nearly 170k below Instagram) signals dwindling conversational relevance, while its last-place position in shares suggests declining content amplification efficiency. This underperformance is especially striking given Facebook’s massive global user base, implying fundamental misalignment between content strategy and audience expectations on the platform.  
 
-This insights collectively paints Instagram as the engagement powerhouse, LinkedIn as a high-value niche player, Twitter as a validation-centric network, and Facebook as a platform requiring urgent strategic reevaluation to reverse its consistent engagement deficit.
+These findings collectively paints Instagram as the engagement powerhouse, LinkedIn as a high-value niche player, Twitter as a validation-centric network, and Facebook as a platform requiring urgent strategic reevaluation to reverse its consistent engagement deficit.
  
 ![Image](https://github.com/user-attachments/assets/49b933a7-f12c-4ccc-b0f3-45e18b35391e)
