@@ -59,3 +59,4 @@ Facebook anchors the performance spectrum with concerning consistency. It trails
 
 This insights collectively paints Instagram as the engagement powerhouse, LinkedIn as a high-value niche player, Twitter as a validation-centric network, and Facebook as a platform requiring urgent strategic reevaluation to reverse its consistent engagement deficit.
  
+![Image](https://github.com/user-attachments/assets/49b933a7-f12c-4ccc-b0f3-45e18b35391e)
