@@ -42,6 +42,9 @@ The dataset forms the backbone of the Social Media Performance Report, structure
 - **Engagement_Score Validation**: If pre-calculated, verified `Engagement_Score` aligned with the weighted formula (e.g., `Likes * 1 + Shares * 2 + Comments * 1.5`). If absent, prepared to create it as a DAX measure in Power BI.
 - **Date Consistency**: Ensured `Post_Date` was uniformly formatted and covered the relevant campaign period for accurate temporal analysis.
 
+Deliverables
+
+Power BI social media engagement analysis.pbix file with the dashboard.
 
 # Executive Summary
 ## Overview of Findings
