@@ -44,7 +44,7 @@ The dataset forms the backbone of the Social Media Performance Report, structure
 
 Deliverables
 
-Power BI social media engagement analysis.pbix file with the dashboard.
+Power BI [social media engagement analysis.pbix](https://github.com/Numb3rNinja/Social-Media-Engagement-Dashboard.git) file with the dashboard.
 
 # Executive Summary
 ## Overview of Findings
